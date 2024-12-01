@@ -16,3 +16,4 @@ When the app is running, you'll be able to send SQL commands to the database via
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+https://github.com/Saad647504/seg2505-tutorial4.git
